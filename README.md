@@ -14,22 +14,8 @@ My most recent work, Assessing the Spatial Clustering of Right of Way Permits in
 <!--Include the -->
 ```R
 library("shiny")
+library("sf")
 library("spatstat")
-
-ui <- fluidpage(
-    #Asks user for input data to compare to addresses
-)
-
-server <- function(input, output, session){
-    #output Ripley's K estimation
-    Kest(right_of_way_permits)
-}
-
-```
-### Forest Inventory and Analysis (FIA)
-I currently work part-time with Dr. Nicholas Nagle (UTK) on USFS FIA research looking into new ways for small area estimation in accordance with the goals of the Southern Research Station.
-
-```R
 library("rFIA")
 ```
 ## Relevant Coursework
