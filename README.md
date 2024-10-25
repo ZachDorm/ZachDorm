@@ -10,7 +10,9 @@ My research interests include small area estimation, cluster analysis methods, a
 
 ### Presentations
 Most recently I presented a portion of my MS thesis work "Small Area Estimates of Virginia's Forests from Coast to Mountains: How does canopy height help?" at the 2024 Annual Meeting of the Association of American Geographers in Honolulu, Hawaii.
+
 My more recent presentations include co-authorship on a presentation "Examining Inaccuracies in Small Area Estimation" at the SOMENS and NEMO Joint Meeting in 2023. 
+
 My early research work, Assessing the Spatial Clustering of Right of Way Permits in Davidson County, Tennessee, utilized Ripley's K function to compare the clustering tendencies of right of way permits to the distribution of addresses. I developed an R Shiny app in this work so that my methods are easily visualized and repeated with different datasets without the need for the user to have experience with GIS. I presented a poster on this work at GeoSym 2023 at UTK and at AAG 2023 Annual Meeting in Denver.
 <!--Include the -->
 ```R
