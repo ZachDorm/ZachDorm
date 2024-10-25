@@ -1,6 +1,6 @@
 
 # Zach Dorminey
-My name is Zach Dorminey. I am a first year Master's student in Geography at the Department of Geography and Sustainability at the [University of Tennessee, Knoxville](https://utk.edu) (UTK). I am focusing on quantitative methods in geographical information systems (GIS).
+My name is Zach Dorminey. I am a first year PhD student in Geography at the Department of Geography and Sustainability at the [University of Tennessee, Knoxville](https://utk.edu) (UTK). I am focusing on quantitative methods in geographical information systems (GIS).
 
 ## Background
 I am from Morgantown, West Virginia where I grew up and attended [West Virginia University](https://www.wvu.edu/) (WVU). I graduated from WVU with a BS in Civil Engineering and worked for about 2 years in the industry. After exploring some opportunities in geography, I decided to go back to school and pursue in-depth quantitative methods in geography. This past summer, upon successful defense of my thesis "A Multi-Metric Approach to Fay-Herriot Small Area Estimation of Forests", I graduated with an MS in Geography.
